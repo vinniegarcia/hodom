@@ -1,2 +1,2 @@
 # hodom
-Higher order DOM
+The Higher order DOM
